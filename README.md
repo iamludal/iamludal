@@ -1,7 +1,5 @@
 ## 🤔 Qui suis-je ?
 
-Ludovic, 20 ans, Lille 📍
-
 Étudiant en 3ème année de licence informatique (Université de Lille), j'en suis passionné depuis l'âge où je sais me servir d'un ordinateur. 👶
 
 Je découvre la programmation vers 2015, année à partir de laquelle je ne vais plus lâcher mon clavier. 💻
