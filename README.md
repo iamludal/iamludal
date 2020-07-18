@@ -2,6 +2,10 @@
 
 ## 🤔 Who am I ?
 
+20 yo french devlover based in Lille 📍, mainly interested in web and mobile development. 📱
+
+Programming ever since I can use a computer. 🧒
+
 > 😄 Fun fact: emoji lover
 
 ## 📈 My stats
