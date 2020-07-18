@@ -32,9 +32,9 @@
 
 ## 💬 Reach me
 
-[<img src="github.com/iamludal/iamludal/assets/Linkedin.png" width="24">](https://linkedin.com/in/ludovic-chombeau)
+[<img src="https://github.com/iamludal/iamludal/assets/Linkedin.png" width="24">](https://linkedin.com/in/ludovic-chombeau)
 
-[<img src="github.com/iamludal/iamludal/assets/Gmail.png" width="24">](mailto:ludovic.chombeau@gmail.com)
+[<img src="https://github.com/iamludal/iamludal/assets/Gmail.png" width="24">](mailto:ludovic.chombeau@gmail.com)
 
 
 💾 EOF
