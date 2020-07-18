@@ -1,22 +1,56 @@
-## 🤔 Qui suis-je ?
-
-Étudiant en 3ème année de licence informatique (Université de Lille), j'en suis passionné depuis l'âge où je sais me servir d'un ordinateur. 👶
-
-Je découvre la programmation vers 2015, année à partir de laquelle je ne vais plus lâcher mon clavier. 💻
+<center>
+ <h1>Hello world <img src="waving_hand.gif" style="width: 1em"></h1>
+</center>
 
 
-## 📝 Projets
-
-🔗 Lien, nom | ℹ️ Infos
---- | ---
-https://aikido-roncq.fr | Site web (design, frontend, backend, hébergement et SEO) du club d'Aïkido de Roncq (bénévolat). 🌐
-[Twemoji Awesome](https://github.com/iamludal/twemoji-awesome) | Comme [Font Awesome](https://fontawesome.com), mais pour [Twemoji](https://github.com/twitter/twemoji) (emojis Twitter). 😃
-[PHP-QueryBuilder](https://github.com/iamludal/PHP-QueryBuilder) | Librairie PHP permettant de construire (et d'exécuter) facilement des requêtes SQL. ⚙️
+<hr style="background: #2384de; height: .1em">
 
 
-## 💬 Me contacter
+## 📈 My stats
 
-Une question? Une proposition?
+![](https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&icon_color=2384de&title_color=2384de)
 
-- 📧 ludovic.chombeau@gmail.com — réponse sous 24h 🕙
-- 👥 [LinkedIn](https://www.linkedin.com/in/ludovic-chombeau/)
+
+## 📝 Projects
+
+| 🔗 Link, name                                                     | ℹ️ Infos                                                                                                                 |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| https://aikido-roncq.fr                                          | Website (design, frontend, backend, hosting and SEO) of the Roncq's Aïkido club (volunteering). 🌐                       |
+| [Twemoji Awesome](https://github.com/iamludal/twemoji-awesome)   | Like [Font Awesome](https://fontawesome.com), but for [Twemoji](https://github.com/twitter/twemoji) (Twitter emojis). 😃 |
+| [PHP-QueryBuilder](https://github.com/iamludal/PHP-QueryBuilder) | PHP library to build (and execute) SQL queries easily. ⚙️                                                                |
+
+
+## 💻 Programming languages
+
+- Knowing/Using
+
+| php | js  | react | python | sass |
+| --- | --- | ----- | ------ | ---- |
+
+- Learning
+
+## 🛠️ Tools
+
+- Knowing/Using
+
+| git | vscode | gimp |
+| --- | ------ | ---- |
+
+
+<hr style="background: #2384de; height: .1em">
+
+
+## 💬 Reach me
+
+<a href="linkedin.com/in/ludovic-chombeau">
+    <img src="Linkedin.svg" style="width: 2em">
+</a>
+
+<a href="mailto:ludovic.chombeau@gmail.com" title="ludovic.chombeau@gmail.com">
+    <img src="Gmail.svg" style="width: 2em; margin-left: 1em">
+</a>
+
+
+
+💾 EOF
+
