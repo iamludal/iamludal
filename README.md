@@ -1,9 +1,8 @@
+<link href="style.css" rel="stylesheet">
+
 <center>
- <h1>Hello world <img src="iamludal/iamludal/assets/waving_hand.gif" style="width: 1em"></h1>
+ <h1>Hello world 👋</h1>
 </center>
-
-
-<hr style="background: #2384de; height: .1em">
 
 
 ## 📈 My stats
@@ -11,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&icon_color=2384de&title_color=2384de)
 
 
-## 📝 Projects
+## 📝 What I've done
 
 | 🔗 Link, name                                                     | ℹ️ Infos                                                                                                                 |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -32,9 +31,6 @@
 | --- | ------ | ---- |
 
 
-<hr style="background: #2384de; height: .1em">
-
-
 ## 💬 Reach me
 
 <a href="linkedin.com/in/ludovic-chombeau">
@@ -42,7 +38,7 @@
 </a>
 
 <a href="mailto:ludovic.chombeau@gmail.com" title="ludovic.chombeau@gmail.com">
-    <img src="assets/Gmail.png" style="margin-left: 1em;">
+    <img src="assets/Gmail.png">
 </a>
 
 
