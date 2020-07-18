@@ -1,8 +1,4 @@
-<link href="style.css" rel="stylesheet">
-
-<center>
- <h1>Hello world 👋</h1>
-</center>
+<h1 align="center">Hello world 👋</h1>
 
 
 ## 📈 My stats
