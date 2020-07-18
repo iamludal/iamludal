@@ -22,16 +22,11 @@
 
 ## 💻 Programming languages
 
-- Knowing/Using
-
 | php | js  | react | python | sass |
 | --- | --- | ----- | ------ | ---- |
 
-- Learning
 
 ## 🛠️ Tools
-
-- Knowing/Using
 
 | git | vscode | gimp |
 | --- | ------ | ---- |
@@ -53,4 +48,3 @@
 
 
 💾 EOF
-
