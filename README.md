@@ -8,6 +8,7 @@ Programming ever since I can use a computer. 🧒
 
 > 😄 Fun fact: emoji lover
 
+
 ## 📈 My stats
 
 ![](https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&icon_color=2384de&title_color=2384de)
@@ -22,13 +23,15 @@ Programming ever since I can use a computer. 🧒
 | [PHP-QueryBuilder](https://github.com/iamludal/PHP-QueryBuilder) | PHP library to build (and execute) SQL queries easily. ⚙️                                                                |
 
 
-## 💻 Programming languages
+## 👨‍💻 What I use
+
+### 💻 Programming languages
 
 | php | js  | react | python | sass |
 | --- | --- | ----- | ------ | ---- |
 
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 | git | vscode | gimp |
 | --- | ------ | ---- |
