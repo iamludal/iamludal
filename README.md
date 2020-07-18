@@ -31,10 +31,10 @@ Programming ever since I can use a computer. 🧒
 | ----- | ---- | ------- | -------- | ------ | ----- |
 
 
-### 🛠️ Tools
+### 🛠️ Tools and other
 
-| git | vscode | Makefile |
-| --- | ------ | -------- |
+| `git` | `vscode` | `Makefile` |
+| ----- | -------- | ---------- |
 
 
 ## 💬 Reach me
