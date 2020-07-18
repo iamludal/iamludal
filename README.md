@@ -32,15 +32,8 @@
 
 ## 💬 Reach me
 
-<span display="inline">
-<a href="https://linkedin.com/in/ludovic-chombeau">
-  <img src="/assets/Linkedin.png" width="24">
-</a>
-
-<a href="mailto:ludovic.chombeau@gmail.com" title="ludovic.chombeau@gmail.com">
-  <img src="/assets/Gmail.png" width="24">
-</a>
-</span>
+ | 📧 [ludovic.chombeau@gmail.com](mailto:ludovic.chombeau@gmail.com) | 👥 [LinkedIn](https://linkedin.com/in/ludovic-chombeau) |
+ | ----------------------------------------------------------------- | ------------------------------------------------------ |
 
 
 💾 EOF
