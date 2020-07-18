@@ -1,5 +1,5 @@
 <center>
- <h1>Hello world <img src="waving_hand.gif" style="width: 1em"></h1>
+ <h1>Hello world <img src="assets/waving_hand.gif" style="width: 1em"></h1>
 </center>
 
 
@@ -38,11 +38,11 @@
 ## 💬 Reach me
 
 <a href="linkedin.com/in/ludovic-chombeau">
-    <img src="Linkedin.svg" style="width: 2em">
+    <img src="assets/Linkedin.svg" style="width: 2em">
 </a>
 
 <a href="mailto:ludovic.chombeau@gmail.com" title="ludovic.chombeau@gmail.com">
-    <img src="Gmail.svg" style="width: 2em; margin-left: 1em">
+    <img src="assets/Gmail.svg" style="width: 2em; margin-left: 1em">
 </a>
 
 
