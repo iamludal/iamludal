@@ -33,14 +33,12 @@
 ## 💬 Reach me
 
 <span display="inline">
-<a href="/assets/Linkedin.png">
-  <img src="https://github.com/iamludal/iamludal/blob/master/assets/Linkedin.png?raw=true" width="24">
+<a href="https://linkedin.com/in/ludovic-chombeau">
+  <img src="/assets/Linkedin.png" width="24">
 </a>
 
-<span>   </span>
-
 <a href="mailto:ludovic.chombeau@gmail.com" title="ludovic.chombeau@gmail.com">
-  <img src="https://github.com/iamludal/iamludal/blob/master/assets/Gmail.png?raw=true" width="24">
+  <img src="/assets/Gmail.png" width="24">
 </a>
 </span>
 
