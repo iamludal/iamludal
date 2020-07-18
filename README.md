@@ -27,14 +27,14 @@ Programming ever since I can use a computer. 🧒
 
 ### 💻 Programming languages
 
-| php | js  | react | python | sass |
-| --- | --- | ----- | ------ | ---- |
+| `php` | `js` | `react` | `python` | `sass` | `sql` |
+| ----- | ---- | ------- | -------- | ------ | ----- |
 
 
 ### 🛠️ Tools
 
-| git | vscode | gimp |
-| --- | ------ | ---- |
+| git | vscode | Makefile |
+| --- | ------ | -------- |
 
 
 ## 💬 Reach me
