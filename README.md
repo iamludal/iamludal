@@ -1,5 +1,8 @@
 <h1 align="center">Hello world 👋</h1>
 
+## 🤔 Who am I ?
+
+> 😄 Fun fact: emoji lover
 
 ## 📈 My stats
 
@@ -29,13 +32,9 @@
 
 ## 💬 Reach me
 
-<a href="linkedin.com/in/ludovic-chombeau">
-    <img src="assets/Linkedin.png">
-</a>
+[<img src="github.com/iamludal/iamludal/assets/Linkedin.png" width="24">](https://linkedin.com/in/ludovic-chombeau)
 
-<a href="mailto:ludovic.chombeau@gmail.com" title="ludovic.chombeau@gmail.com">
-    <img src="assets/Gmail.png">
-</a>
+[<img src="github.com/iamludal/iamludal/assets/Gmail.png" width="24">](mailto:ludovic.chombeau@gmail.com)
 
 
 💾 EOF
