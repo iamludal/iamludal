@@ -33,7 +33,7 @@
 ## 💬 Reach me
 
 <span display="inline">
-<a href="https://linkedin.com/in/ludovic-chombeau">
+<a href="/assets/Linkedin.png">
   <img src="https://github.com/iamludal/iamludal/blob/master/assets/Linkedin.png?raw=true" width="24">
 </a>
 
