@@ -33,9 +33,8 @@ Programming ever since I can use a computer. 🧒
 
 ### 🛠️ Tools and other
 
-| `git` | `vscode` | `Makefile` |
-| ----- | -------- | ---------- |
-
+| `git` | `vscode` | `Makefile` | `travis` |
+| ----- | -------- | ---------- | -------- |
 
 ## 💬 Reach me
 
