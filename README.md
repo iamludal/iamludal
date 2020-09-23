@@ -2,9 +2,7 @@
 
 ## 🤔 Who am I ?
 
-20 yo french devlover based in Lille 📍, mainly interested in web and mobile development. 📱
-
-Programming ever since I can use a computer. 🧒
+20yo french dev lover based in Lille 📍, mainly interested in web and mobile development. 📱
 
 > 😄 Fun fact: emoji lover
 
