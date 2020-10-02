@@ -25,8 +25,8 @@
 
 ### 💻 Programming languages
 
-| `PHP` | `JavaScript` | `React` | `Python` | `Sass` | `SQL` |
-| ----- | ------------ | ------- | -------- | ------ | ----- |
+| `PHP` | `JavaScript` | `React` | `Python` | `Java` | `Sass` | `SQL` |
+| ----- | ------------ | ------- | -------- | ------ | ------ | ----- |
 
 
 ### 🛠️ Tools and other
