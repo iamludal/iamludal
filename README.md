@@ -2,7 +2,7 @@
 
 ## 🤔 Who am I ?
 
-20yo french dev lover based in Lille 📍, mainly interested in web and mobile development. 📱
+20yo french dev lover based in Lille 📍, mainly interested in web, mobile and software development. 📱
 
 > 😄 Fun fact: emoji lover
 
@@ -25,13 +25,13 @@
 
 ### 💻 Programming languages
 
-| `php` | `js` | `react` | `python` | `sass` | `sql` |
-| ----- | ---- | ------- | -------- | ------ | ----- |
+| `PHP` | `JavaScript` | `React` | `Python` | `Sass` | `SQL` |
+| ----- | ------------ | ------- | -------- | ------ | ----- |
 
 
 ### 🛠️ Tools and other
 
-| `git` | `vscode` | `Makefile` | `travis` |
+| `Git` | `VSCode` | `Makefile` | `Travis` |
 | ----- | -------- | ---------- | -------- |
 
 ## 💬 Reach me
