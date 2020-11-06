@@ -1,5 +1,3 @@
-<h1 align="center">Hello world 👋</h1>
-
 ## 🤔 Who am I ?
 
 20yo french dev lover based in Lille 📍, mainly interested in web, mobile and software development. 📱
@@ -25,14 +23,15 @@
 
 ### 💻 Programming languages
 
-| `PHP` | `JavaScript` | `React` | `Python` | `Java` | `Sass` | `SQL` |
-| ----- | ------------ | ------- | -------- | ------ | ------ | ----- |
+| `PHP` | `JavaScript` | `TypeScript` | `Svelte` | `Python` | `Java` | `Sass` | `SQL` |
+| ----- | ------------ | ------------ | -------- | -------- | ------ | ------ | ----- |
 
 
 ### 🛠️ Tools and other
 
 | `Git` | `VSCode` | `Makefile` | `Travis` |
 | ----- | -------- | ---------- | -------- |
+
 
 ## 💬 Reach me
 
