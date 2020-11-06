@@ -21,13 +21,13 @@
 
 ## 👨‍💻 What I use
 
-### 💻 Programming languages
+### 💻 Languages & frameworks
 
 | `PHP` | `JavaScript` | `TypeScript` | `Svelte` | `Python` | `Java` | `Sass` | `SQL` |
 | ----- | ------------ | ------------ | -------- | -------- | ------ | ------ | ----- |
 
 
-### 🛠️ Tools and other
+### 🛠️ Tools & other
 
 | `Git` | `VSCode` | `Makefile` | `Travis` |
 | ----- | -------- | ---------- | -------- |
