@@ -26,28 +26,28 @@
 
 ### 💻 Languages & frameworks
 
-![php](https://img.shields.io/badge/-PHP-444?style=plastic&logo=php)
-![ts](https://img.shields.io/badge/-Typescript-444?style=plastic&logo=typescript)
-![js](https://img.shields.io/badge/-JavaScript-444?style=plastic&logo=javascript)
-![svelte](https://img.shields.io/badge/-Svelte-444?style=plastic&logo=svelte)
-![py](https://img.shields.io/badge/-Python-444?style=plastic&logo=python)
-![java](https://img.shields.io/badge/-Java-444?style=plastic&logo=java)
-![sass](https://img.shields.io/badge/-Sass-444?style=plastic&logo=sass)
-![mysql](https://img.shields.io/badge/-MySQL-444?style=plastic&logo=mysql)
+![php](https://img.shields.io/badge/-PHP-444?style=for-the-badge&logo=php)
+![ts](https://img.shields.io/badge/-Typescript-444?style=for-the-badge&logo=typescript)
+![js](https://img.shields.io/badge/-JavaScript-444?style=for-the-badge&logo=javascript)
+![svelte](https://img.shields.io/badge/-Svelte-444?style=for-the-badge&logo=svelte)
+![py](https://img.shields.io/badge/-Python-444?style=for-the-badge&logo=python)
+![java](https://img.shields.io/badge/-Java-444?style=for-the-badge&logo=java)
+![sass](https://img.shields.io/badge/-Sass-444?style=for-the-badge&logo=sass)
+![mysql](https://img.shields.io/badge/-MySQL-444?style=for-the-badge&logo=mysql)
 
 
 ### 🛠️ Tools & other
 
-![vsc](https://img.shields.io/badge/-VSCode-444?style=plastic&logo=visual-studio-code)
-![travis](https://img.shields.io/badge/-Travis-444?style=plastic&logo=travis-ci)
-![linux](https://img.shields.io/badge/-Linux-444?style=plastic&logo=linux)
+![vsc](https://img.shields.io/badge/-VSCode-444?style=for-the-badge&logo=visual-studio-code)
+![travis](https://img.shields.io/badge/-Travis-444?style=for-the-badge&logo=travis-ci)
+![linux](https://img.shields.io/badge/-Linux-444?style=for-the-badge&logo=linux)
 
 
 
 ## 💬 Reach me
 
-[![Gmail](https://img.shields.io/badge/-Mail-444?style=plastic&logo=mail.ru)][gmail]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-444?style=plastic&logo=linkedin)][linkedin]
+[![Gmail](https://img.shields.io/badge/-Mail-444?style=for-the-badge&logo=mail.ru)][gmail]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-444?style=for-the-badge&logo=linkedin)][linkedin]
 
 [gmail]: mailto:ludovic.chombeau@gmail.com
 [linkedin]: https://linkedin.com/in/ludovic-chombeau
