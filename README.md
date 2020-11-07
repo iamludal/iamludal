@@ -1,6 +1,4 @@
-<center>
- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400">
-</center>
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400" align="right">
 
 ## 🤔 Who am I ?
 
