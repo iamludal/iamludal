@@ -1,5 +1,5 @@
 
-<img src="assets/daftpunktocat.gif" width="300" align="right">
+<img src="assets/daftpunktocat.gif" width="200" align="right">
 
 ## 🤔 Who am I ?
 
