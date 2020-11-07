@@ -1,5 +1,5 @@
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="350" align="right">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" align="right">
 
 ## 🤔 Who am I ?
 
