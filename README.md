@@ -39,8 +39,13 @@
 ### 🛠️ Tools & other
 
 ![vsc](https://img.shields.io/badge/-VSCode-444?style=for-the-badge&logo=visual-studio-code)
+![jetbrains](https://img.shields.io/badge/-JetBrains-444?style=for-the-badge&logo=jetbrains)
 ![travis](https://img.shields.io/badge/-Travis-444?style=for-the-badge&logo=travis-ci)
 ![linux](https://img.shields.io/badge/-Linux-444?style=for-the-badge&logo=linux)
+![chrome](https://img.shields.io/badge/-Chrome-444?style=for-the-badge&logo=google-chrome)
+![figma](https://img.shields.io/badge/-Figma-444?style=for-the-badge&logo=figma)
+![reddit](https://img.shields.io/badge/-Reddit-444?style=for-the-badge&logo=reddit)
+![Spotify](https://img.shields.io/badge/-Spotify-444?style=for-the-badge&logo=spotify)
 
 
 
@@ -48,9 +53,8 @@
 
 [![Gmail](https://img.shields.io/badge/-Mail-444?style=for-the-badge&logo=mail.ru)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-444?style=for-the-badge&logo=linkedin)][linkedin]
+[![Discord](https://img.shields.io/badge/-Discord-444?style=for-the-badge&logo=discord)][discord]
 
 [gmail]: mailto:ludovic.chombeau@gmail.com
 [linkedin]: https://linkedin.com/in/ludovic-chombeau
-
-
-💾 EOF
+[discord]: https://discord.com/users/256769299954401280
