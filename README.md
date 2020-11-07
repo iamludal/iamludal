@@ -1,3 +1,7 @@
+<center>
+ <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400">
+</center>
+
 ## 🤔 Who am I ?
 
 20yo french dev lover based in Lille 📍, mainly interested in web, mobile and software development. 📱
