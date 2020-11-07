@@ -45,7 +45,6 @@
 ![chrome](https://img.shields.io/badge/-Chrome-444?style=for-the-badge&logo=google-chrome)
 ![figma](https://img.shields.io/badge/-Figma-444?style=for-the-badge&logo=figma)
 ![reddit](https://img.shields.io/badge/-Reddit-444?style=for-the-badge&logo=reddit)
-![Spotify](https://img.shields.io/badge/-Spotify-444?style=for-the-badge&logo=spotify)
 
 
 
