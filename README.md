@@ -1,5 +1,5 @@
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" align="right">
+<img src="assets/daftpunktocat.gif" width="300" align="right">
 
 ## 🤔 Who am I ?
 
@@ -26,20 +26,31 @@
 
 ### 💻 Languages & frameworks
 
-| `PHP` | `JavaScript` | `TypeScript` | `Svelte` | `Python` | `Java` | `Sass` | `SQL` |
-| ----- | ------------ | ------------ | -------- | -------- | ------ | ------ | ----- |
+![php](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php)
+![ts](https://img.shields.io/badge/-Typescript-333?style=for-the-badge&logo=typescript)
+![js](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![svelte](https://img.shields.io/badge/-Svelte-333?style=for-the-badge&logo=svelte)
+![py](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
+![sass](https://img.shields.io/badge/-Sass-333?style=for-the-badge&logo=sass)
+![mysql](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
 
 
 ### 🛠️ Tools & other
 
-| `Git` | `VSCode` | `Makefile` | `Travis` |
-| ----- | -------- | ---------- | -------- |
+![vsc](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visual-studio-code)
+![travis](https://img.shields.io/badge/-Travis-333?style=for-the-badge&logo=travis-ci)
+![linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+
 
 
 ## 💬 Reach me
 
- | 📧 [ludovic.chombeau@gmail.com](mailto:ludovic.chombeau@gmail.com) | 👥 [LinkedIn](https://linkedin.com/in/ludovic-chombeau) |
- | ----------------------------------------------------------------- | ------------------------------------------------------ |
+[![Gmail](https://img.shields.io/badge/-Mail-333?style=for-the-badge&logo=mail.ru)][gmail]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin)][linkedin]
+
+[gmail]: mailto:ludovic.chombeau@gmail.com
+[linkedin]: https://linkedin.com/in/ludovic-chombeau
 
 
 💾 EOF
