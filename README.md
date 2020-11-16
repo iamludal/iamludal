@@ -30,6 +30,7 @@
 ![ts](https://img.shields.io/badge/-Typescript-444?style=for-the-badge&logo=typescript)
 ![js](https://img.shields.io/badge/-JavaScript-444?style=for-the-badge&logo=javascript)
 ![svelte](https://img.shields.io/badge/-Svelte-444?style=for-the-badge&logo=svelte)
+![nodejs](https://img.shields.io/badge/-NodeJS-444?style=for-the-badge&logo=node.js)
 ![py](https://img.shields.io/badge/-Python-444?style=for-the-badge&logo=python)
 ![java](https://img.shields.io/badge/-Java-444?style=for-the-badge&logo=java)
 ![sass](https://img.shields.io/badge/-Sass-444?style=for-the-badge&logo=sass)
