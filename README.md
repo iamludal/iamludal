@@ -42,9 +42,8 @@
 ![jetbrains](https://img.shields.io/badge/-JetBrains-444?style=for-the-badge&logo=jetbrains)
 ![travis](https://img.shields.io/badge/-Travis-444?style=for-the-badge&logo=travis-ci)
 ![linux](https://img.shields.io/badge/-Linux-444?style=for-the-badge&logo=linux)
-![chrome](https://img.shields.io/badge/-Chrome-444?style=for-the-badge&logo=google-chrome)
 ![figma](https://img.shields.io/badge/-Figma-444?style=for-the-badge&logo=figma)
-![reddit](https://img.shields.io/badge/-Reddit-444?style=for-the-badge&logo=reddit)
+![docker](https://img.shields.io/badge/-Docker-444?style=for-the-badge&logo=docker)
 
 
 
