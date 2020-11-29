@@ -9,9 +9,8 @@
 - 🔭 Currently working on [Aïkido Roncq](https://www.aikido-roncq.fr)  
 
 - ⚡ Fun fact: emoji lover ❤️  
-  
 
-👨‍💻 What I've done: [⌨️ Typospeed](http://iamludal.github.com/typospeed) | [⚙️ PHP-QueryBuilder](https://github.com/iamludal/PHP-querybuilder)  
+- 👨‍💻 What I've done: [⌨️ Typospeed](http://iamludal.github.com/typospeed) | [⚙️ PHP-QueryBuilder](https://github.com/iamludal/PHP-querybuilder)  
 
 
 
