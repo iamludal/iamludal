@@ -1,59 +1,61 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<img src="assets/daftpunktocat.gif" width="200" align="right">
+### <div align="center">I am Ludal, a 20 yo french 🇫🇷 dev lover, mainly interested in web, mobile and software development. 👨‍💻</div>  
+  
 
-## 🤔 Who am I ?
+🔭 Currently working on [Aïkido Roncq](https://www.aikido-roncq.fr)  
+  
 
-20yo french dev lover based in Lille 📍, mainly interested in web, mobile and software development. 📱
+⚡ Fun fact: emoji lover ❤️  
+  
 
-> 😄 Fun fact: emoji lover
+👨‍💻 What I've done:
 
+- [Typospeed](http://iamludal.github.com/typospeed)
+- [PHP-QueryBuilder](https://github.com/iamludal/PHP-querybuilder)  
+  
 
-## 📈 My stats
-
-![](https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&icon_color=2384de&title_color=2384de)
-
-
-## 📝 What I've done
-
-| 🔗 Link, name                                                     | ℹ️ Infos                                                                                                                 |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| https://aikido-roncq.fr                                          | Website (design, frontend, backend, hosting and SEO) of the Roncq's Aïkido club (volunteering). 🌐                       |
-| [Twemoji Awesome](https://github.com/iamludal/twemoji-awesome)   | Like [Font Awesome](https://fontawesome.com), but for [Twemoji](https://github.com/twitter/twemoji) (Twitter emojis). 😃 |
-| [PHP-QueryBuilder](https://github.com/iamludal/PHP-QueryBuilder) | PHP library to build (and execute) SQL queries easily. ⚙️                                                                |
-
-
-## 👨‍💻 What I use
-
-### 💻 Languages & frameworks
-
-![php](https://img.shields.io/badge/-PHP-444?style=for-the-badge&logo=php)
-![ts](https://img.shields.io/badge/-Typescript-444?style=for-the-badge&logo=typescript)
-![js](https://img.shields.io/badge/-JavaScript-444?style=for-the-badge&logo=javascript)
-![svelte](https://img.shields.io/badge/-Svelte-444?style=for-the-badge&logo=svelte)
-![nodejs](https://img.shields.io/badge/-NodeJS-444?style=for-the-badge&logo=node.js)
-![py](https://img.shields.io/badge/-Python-444?style=for-the-badge&logo=python)
-![java](https://img.shields.io/badge/-Java-444?style=for-the-badge&logo=java)
-![sass](https://img.shields.io/badge/-Sass-444?style=for-the-badge&logo=sass)
-![mysql](https://img.shields.io/badge/-MySQL-444?style=for-the-badge&logo=mysql)
+<br/>  
 
 
-### 🛠️ Tools & other
+## ⚡ My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>  
 
-![vsc](https://img.shields.io/badge/-VSCode-444?style=for-the-badge&logo=visual-studio-code)
-![jetbrains](https://img.shields.io/badge/-JetBrains-444?style=for-the-badge&logo=jetbrains)
-![travis](https://img.shields.io/badge/-Travis-444?style=for-the-badge&logo=travis-ci)
-![linux](https://img.shields.io/badge/-Linux-444?style=for-the-badge&logo=linux)
-![figma](https://img.shields.io/badge/-Figma-444?style=for-the-badge&logo=figma)
-![docker](https://img.shields.io/badge/-Docker-444?style=for-the-badge&logo=docker)
+<br/>  
 
 
+## 📈 GitHub Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-## 💬 Reach me
+<br/>  
 
-[![Gmail](https://img.shields.io/badge/-Mail-444?style=for-the-badge&logo=mail.ru)][gmail]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-444?style=for-the-badge&logo=linkedin)][linkedin]
-[![Discord](https://img.shields.io/badge/-Discord-444?style=for-the-badge&logo=discord)][discord]
 
-[gmail]: mailto:ludovic.chombeau@gmail.com
-[linkedin]: https://linkedin.com/in/ludovic-chombeau
-[discord]: https://discord.com/users/256769299954401280
+## 📱 Connect with me  
+<div align="center">
+<a href="mailto:ludovic.chombeau@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ludovic-chombeau" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<div align="center">
+<a href="https://twitter.com/iamludal" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>  
