@@ -3,7 +3,7 @@
 </div>
   
 
-### <div align="center" width="200">I am Ludal, a 20 yo french 🇫🇷 dev lover, mainly interested in web, mobile and software development. 👨‍💻</div>  
+### <div align="center" width="200">I am Ludal, a 20 yo french 🇫🇷 dev lover, mainly interested in <br> web, mobile and software development. 👨‍💻</div>
   
 
 - 🔭 Currently working on [Aïkido Roncq](https://www.aikido-roncq.fr)  
@@ -14,7 +14,7 @@
 
 
 
-## ⚡ My Skill Set  
+## <div align="center"> ⚡ My Skill Set </div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -32,15 +32,16 @@
 
 
 
-## 📈 GitHub Stats  
-<div align="center">
+## <div align="center"> 📈 GitHub Stats </div>
+
+<div align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 <br/>
 
 
-## 📱 Connect with me
-
+## <div align="center"> 📱 Connect with me </div> 
+<div align="center">
 <a href="mailto:ludovic.chombeau@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -50,3 +51,4 @@
 <a href="https://twitter.com/iamludal" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+</div>
