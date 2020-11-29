@@ -5,6 +5,7 @@
 
 ### <div align="center" width="200">I am Ludal, a 20 yo french 🇫🇷 dev lover, mainly interested in <br> web, mobile and software development. 👨‍💻</div>
   
+<br>
 
 - 🔭 Currently working on [Aïkido Roncq](https://www.aikido-roncq.fr)  
 
@@ -12,7 +13,7 @@
 
 - 👨‍💻 What I've done: [⌨️ Typospeed](http://iamludal.github.com/typospeed) | [⚙️ PHP-QueryBuilder](https://github.com/iamludal/PHP-querybuilder)  
 
-
+<br>
 
 ## ⚡ My Skill Set
 <div align="center">  
