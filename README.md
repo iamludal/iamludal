@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: emoji lover ❤️  
 
-- 👨‍💻 What I've done: [⌨️ Typospeed](http://iamludal.github.io/typospeed) | [⚙️ PHP-QueryBuilder](https://github.com/iamludal/PHP-querybuilder)  
+- 👨‍💻 What I've done: [⌨️ Typospeed](http://iamludal.github.io/typospeed) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
 
 <br>
 
