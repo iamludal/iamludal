@@ -7,11 +7,11 @@
   
 <br>
 
-- 🔭 Currently working on [Aïkido Roncq](https://www.aikido-roncq.fr)  
+- 🔭 Currently working on [Typospeed](https://www.github.com/iamludal/typospeed).
 
-- ⚡ Fun fact: emoji lover ❤️  
+- ⚡ Fun fact: emoji lover. ❤️  
 
-- 👨‍💻 What I've done: [⌨️ Typospeed](http://iamludal.github.io/typospeed) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
+- 👨‍💻 What I've done: [🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://iamludal.github.io/typospeed) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
 
 <br>
 
