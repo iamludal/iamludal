@@ -11,10 +11,14 @@
 
 - ⚡ Fun fact: emoji lover. ❤️  
 
-- 👨‍💻 What I've done:
+## 👨‍💻 What I've done
 
+<div align="center">
+    
 [🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://iamludal.github.io/typospeed) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
 --- | --- | ---
+
+</div>
 
 <br>
 
