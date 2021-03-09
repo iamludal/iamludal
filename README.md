@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: emoji lover. ❤️  
 
-## 👨‍💻 What I've done
+## 👨‍💻 What I've Done
 
 <div align="center">
     
@@ -39,7 +39,7 @@
 
 
 
-## 📈 GitHub Stats
+## 📈 My Stats
 
 <div align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" align="center" />
@@ -47,7 +47,7 @@
 <br/>
 
 
-## 📱 Connect with me
+## 📱 Connect With Me
 <div align="center">
 <a href="mailto:ludovic.chombeau@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
