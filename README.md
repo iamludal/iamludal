@@ -4,6 +4,21 @@
   
 
 ### <div align="center" width="200">I am Ludal, a 21 yo french 🇫🇷 dev lover, mainly interested in <br> web, mobile and software development. 👨‍💻</div>
+
+<p align="center">
+    <a href="mailto:contact@iamludal.fr">
+        <img src="https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/iamludal">
+        <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://discordapp.com/users/256769299954401280">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://dev.to/iamludal">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    </a>
+</p>
   
 <br>
 
@@ -45,17 +60,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 <br/>
-
-
-## 📱 Connect With Me
-<div align="center">
-<a href="mailto:ludovic.chombeau@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ludovic-chombeau" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamludal" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>
