@@ -30,7 +30,7 @@
 
 <div align="center">
     
-[🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://iamludal.fr/typospeed) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
+[🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
 --- | --- | ---
 
 </div>
