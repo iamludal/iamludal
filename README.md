@@ -73,6 +73,8 @@
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
                 <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB" />
                 <img src="https://img.shields.io/badge/Linux-F7C700?style=for-the-badge&logo=linux&logoColor=black" />
+                <img src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" />
+                <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" />
             </td>
         </tr>
     </tbody>
