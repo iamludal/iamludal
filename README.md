@@ -24,6 +24,8 @@
 
 - 🔭 Currently working on: [Bou'D'Brousse](https://play.google.com/store/apps/details?id=fr.bdb.app).
 
+- 🧐 Current learning: [Android development](https://developer.android.com).
+
 - ⚡ Fun fact: emoji lover. ❤️  
 
 ## 👨‍💻 What I've Done
