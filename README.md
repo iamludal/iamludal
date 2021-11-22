@@ -22,9 +22,7 @@
   
 <br>
 
-- 🔭 Currently working on: [Bou'D'Brousse](https://play.google.com/store/apps/details?id=fr.bdb.app).
-
-- 🧐 Current learning: [Android development](https://developer.android.com).
+- 🧐 Current learning: [Kubernetes ☸](https://kubernetes.io/).
 
 - ⚡ Fun fact: emoji lover. ❤️  
 
