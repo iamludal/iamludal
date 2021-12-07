@@ -35,6 +35,10 @@
     
 </div>
 
+## ℹ About me
+
+I've been writing b̶u̶g̶s code since I was a teenager. I'm currently a cloud computing student, preparing my master's degree at the Univeristy of Lille. Self-taught, I'm constantly learning (through books, articles, videos), and I then share with the world what I learn on my [blog](https://dev.to/iamludal). My greatest passion? Creating projects from A to Z, like the ones you will discover below. At the moment, I'm particularly interested in blockchain (along with cryptocurrencies) and cloud computing, but I also enjoy full-stack development and cybersecurity.
+
 ## 👨‍💻 What I've Done
 
 <div align="center">
