@@ -3,7 +3,7 @@
 </div>
   
 
-### <div align="center" width="200">I am Ludal, a 21 yo French 🇫🇷 dev lover, mainly interested in <br> web development and DevOps. 👨‍💻</div>
+### <div align="center" width="200">I am Ludal, a 21 yo French dev lover. 🇫🇷</div>
 
 <p align="center">
     <a href="mailto:contact@iamludal.fr">
@@ -25,6 +25,15 @@
 - 🧐 Current learning: [Kubernetes ☸](https://kubernetes.io/).
 
 - ⚡ Fun fact: emoji lover. ❤️  
+
+- 💡 Interested in:
+
+<div align="center">
+
+🌍 Full stack development | ⚙ DevOps | ⛓ Blockchain | 🔒 Cybersecurity
+--- | --- | --- | ---
+    
+</div>
 
 ## 👨‍💻 What I've Done
 
