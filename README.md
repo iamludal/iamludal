@@ -59,6 +59,7 @@ I've been writing b̶u̶g̶s code since I was a teenager. I'm currently a cloud 
                <img src="https://img.shields.io/badge/HTML-F4470B?style=for-the-badge&logo=html5&logoColor=white" />
                <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+                <img src="https://img.shields.io/badge/Svelte-F73C00?style=for-the-badge&logo=svelte&logoColor=white" />
                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
                <img src="https://img.shields.io/badge/Chakra%20UI-63C9CB?style=for-the-badge&logo=chakraui&logoColor=white" />
