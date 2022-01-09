@@ -75,12 +75,13 @@ I've been writing b̶u̶g̶s code since I was a teenager. I'm currently a cloud 
                 <img src="https://img.shields.io/badge/Prisma-273141?style=for-the-badge&logo=prisma&logoColor=FFF" />
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-                <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+                <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" /> 
+                <img src="https://img.shields.io/badge/Kotlin-F7F7F7?style=for-the-badge&logo=kotlin&logoColor=6b0cd7" />
+                <img src="https://img.shields.io/badge/ReactiveX-F7F7F7?style=for-the-badge&logo=reactivex&logoColor=e31589" />
                 <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB" />
                 <img src="https://img.shields.io/badge/Ansible-F7F7F7?style=for-the-badge&logo=ansible&logoColor=black" />
-                <img src="https://img.shields.io/badge/Linux-F7C700?style=for-the-badge&logo=linux&logoColor=black" />
-                <img src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" />
+                <img src="https://img.shields.io/badge/Linux-F7F7F7?style=for-the-badge&logo=linux&logoColor=black" />
+                <img src="https://img.shields.io/badge/Figma-F7F7F7?style=for-the-badge&logo=figma&logoColor=a259ff" />
                 <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" />
             </td>
         </tr>
