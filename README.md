@@ -37,7 +37,7 @@ I've been writing b̶u̶g̶s code since I was a teenager. I'm currently a cloud 
 
 <div align="center">
     
-[🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [🚀 Cryptac](http://github.com/iamludal/cryptac) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
+[🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [🚀 Cryptac](https://play.google.com/store/apps/details?id=fr.iamludal.cryptac) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
 --- | --- | --- | ---
 
 </div>
