@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="mailto:contact@iamludal.fr">
-        <img src="https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://twitter.com/iamludal">
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
