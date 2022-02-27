@@ -3,7 +3,7 @@
 </div>
   
 
-### <div align="center" width="200">I am Ludal, a 21 yo French dev lover. 🇫🇷</div>
+### <div align="center" width="200">I am Ludal, a 22 yo French dev lover. 🇫🇷</div>
 
 <p align="center">
     <a href="mailto:contact@iamludal.fr">
