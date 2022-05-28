@@ -1,7 +1,6 @@
 <div align="center">
     <img src="assets/greetings.gif" align="center" height="" width="500" />
 </div>
-  
 
 ### <div align="center" width="200">I am Ludal, a 22 yo French dev lover. 🇫🇷</div>
 
@@ -83,8 +82,14 @@
 </table>
 
 
-## My Stats 📈
+## My Coding Stats 📈
 
 <div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamludal&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+
+
+## My Reading Stats 📖
+
+<a href="https://app.daily.dev/iamludal"><img src="https://api.daily.dev/devcards/1b73e7e81e40466e977c9d5b6dac3666.png?r=001" width="300" alt="Ludal 🚀's Dev Card"/></a>
