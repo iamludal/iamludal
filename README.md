@@ -87,8 +87,3 @@
 <div align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" />
 </div>
-
-
-## My Reading Stats 📖
-
-<a href="https://app.daily.dev/iamludal"><img src="https://api.daily.dev/devcards/1b73e7e81e40466e977c9d5b6dac3666.png?r=001" width="300" alt="Ludal 🚀's Dev Card"/></a>
