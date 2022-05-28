@@ -22,12 +22,12 @@
   
 <br>
 
-- 🧐 Currently learning: [Kubernetes ☸](https://kubernetes.io/)
+🧠 **Currently learning:** [Kubernetes ☸](https://kubernetes.io/)
 
-- 💡 Interested in: 🔒 Cybersecurity + ☁️ DevOps + ⛓ Blockchain
+💡 **Interested in:** `Cybersecurity 🔒` `DevOps 🚀` `Blockchain 🔗`
  
 
-## 👨‍💻 What I've Done
+## What I've Done 👨🏻‍💻
 
 <div align="center">
     
@@ -36,7 +36,7 @@
 
 </div>
 
-## ⚡ My Skill Set
+## My Skill Set ⚡️
 
 <table>
     <thead>
@@ -83,7 +83,7 @@
 </table>
 
 
-## 📈 My Stats
+## My Stats 📈
 
 <div align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" align="center" />
