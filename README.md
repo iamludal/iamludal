@@ -58,17 +58,15 @@
                 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
                 <img src="https://img.shields.io/badge/Chakra%20UI-63C9CB?style=for-the-badge&logo=chakraui&logoColor=white" />
             </td>
-            <td> 
-                <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB" />
+            <td>
                 <img src="https://img.shields.io/badge/Ansible-F7F7F7?style=for-the-badge&logo=ansible&logoColor=black" />
                 <img src="https://img.shields.io/badge/Terraform-F7F7F7?style=for-the-badge&logo=terraform&logoColor=5A40DD" />
                 <img src="https://img.shields.io/badge/Grafana-F7F7F7?style=for-the-badge&logo=grafana&logoColor=E55729" />
-                <img src="https://img.shields.io/badge/Kubernetes-F7F7F7?style=for-the-badge&logo=kubernetes&logoColor=3068DB" />
-                <img src="https://img.shields.io/badge/Linux-F7F7F7?style=for-the-badge&logo=linux&logoColor=black" />
-                <img src="https://img.shields.io/badge/GitHub%20Actions-F7F7F7?style=for-the-badge&logo=github&logoColor=black" />
-                <img src="https://img.shields.io/badge/Bash-F7F7F7?style=for-the-badge&logo=gnubash&logoColor=black" />
-                <img src="https://img.shields.io/badge/GitLab%20CI-F7F7F7?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
                 <img src="https://img.shields.io/badge/DataDog-F7F7F7?style=for-the-badge&logo=datadog&logoColor=632CA6" />
+                <img src="https://img.shields.io/badge/Kubernetes-F7F7F7?style=for-the-badge&logo=kubernetes&logoColor=3068DB" />
+                <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB" />
+                <img src="https://img.shields.io/badge/GitHub%20Actions-F7F7F7?style=for-the-badge&logo=github&logoColor=black" />
+                <img src="https://img.shields.io/badge/GitLab%20CI-F7F7F7?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Checkmarx-4CB145?style=for-the-badge&logo=checkmarx&logoColor=white" />
