@@ -52,10 +52,10 @@
                 <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white" />
                 <img src="https://img.shields.io/badge/Svelte-F73C00?style=for-the-badge&logo=svelte&logoColor=white" />
                 <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=F00" />
-                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-                <img src="https://img.shields.io/badge/Postgre-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7F7F7" />
                 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+                <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7F7F7" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Ansible-F7F7F7?style=for-the-badge&logo=ansible&logoColor=black" />
