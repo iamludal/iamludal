@@ -35,7 +35,7 @@
 
 </div>
 
-## My Skill Set ⚡️
+## My Main Stack 🛠️
 
 <table>
     <thead>
