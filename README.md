@@ -2,7 +2,7 @@
     <img src="assets/greetings.gif" align="center" height="" width="500" />
 </div>
 
-### <div align="center" width="200">I am Ludal, a 22 yo French DevOps Engineer 🇫🇷</div>
+### <div align="center" width="200">I am Ludal, a 23 yo French DevOps Engineer 🇫🇷</div>
 
 <p align="center">
     <a href="mailto:contact@iamludal.fr">
@@ -21,17 +21,17 @@
   
 <br>
 
-🧠 **Currently learning:** [Kubernetes ☸](https://kubernetes.io/)
+🧠 **Currently learning:** `Kubernetes 🐙`
 
-💡 **Interested in:** `Cybersecurity 🔒` `DevOps 🚀` `Blockchain 🔗`
+💡 **Interested in:** `Automation 🚀` `System Design 💡` `Cybersecurity 🔒`
  
 
 ## What I've Done 👨🏻‍💻
 
 <div align="center">
     
-[🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [🚀 Cryptac](https://play.google.com/store/apps/details?id=fr.iamludal.cryptac) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
---- | --- | --- | ---
+[🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [🚀 Cryptac](https://play.google.com/store/apps/details?id=fr.iamludal.cryptac)  
+--- | --- | ---
 
 </div>
 
