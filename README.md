@@ -42,19 +42,17 @@
         <tr>
             <th>Development</th>
             <th>Operations</th>
-            <th>Security</th>
+            <th>Databases</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
                 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-                <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white" />
-                <img src="https://img.shields.io/badge/Svelte-F73C00?style=for-the-badge&logo=svelte&logoColor=white" />
+                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
                 <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=F00" />
                 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-                <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+                <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white" />
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7F7F7" />
             </td>
             <td>
@@ -68,9 +66,9 @@
                 <img src="https://img.shields.io/badge/GitLab%20CI-F7F7F7?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Checkmarx-4CB145?style=for-the-badge&logo=checkmarx&logoColor=white" />
-                <img src="https://img.shields.io/badge/Wireshark-275F9D?style=for-the-badge&logo=wireshark&logoColor=white" />
-                <img src="https://img.shields.io/badge/Vault-black?style=for-the-badge&logo=vault&logoColor=F7F7F7" />
+                <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+                <img src="https://img.shields.io/badge/MongoDB-679444?style=for-the-badge&logo=mongodb&logoColor=white" />
+                <img src="https://img.shields.io/badge/Redis-C13B2C?style=for-the-badge&logo=redis&logoColor=white" />
             </td>
         </tr>
     </tbody>
