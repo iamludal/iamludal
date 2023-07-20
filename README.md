@@ -23,7 +23,7 @@
 
 🧠 **Currently learning:** `Kubernetes 🐙`
 
-💡 **Interested in:** `Automation 🚀` `System Design 💡` `Cybersecurity 🔒`
+💡 **Interested in:** `Automation 🚀` `System Design 🧠` `Monitoring 🚦` `Cybersecurity 🔒`
  
 
 ## What I've Done 👨🏻‍💻
