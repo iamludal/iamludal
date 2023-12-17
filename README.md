@@ -21,8 +21,6 @@
   
 <br>
 
-🧠 **Currently learning:** `Kubernetes 🐙`
-
 💡 **Interested in:** `Automation 🚀` `System Design 🧠` `Monitoring 🚦` `Cybersecurity 🔒`
  
 
