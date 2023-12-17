@@ -18,11 +18,13 @@
         <img src="https://svgshare.com/i/fDu.svg" />
     </a>
 </p>
-  
-<br>
 
-💡 **Interested in:** `Automation 🚀` `System Design 🧠` `Monitoring 🚦` `Cybersecurity 🔒`
- 
+<p align="center">
+    <code>Automation 🚀</code> 
+    <code>System Design 🧠</code>
+    <code>Monitoring 🚦</code>
+    <code>Cybersecurity 🔒</code>
+</p>
 
 ## What I've Done 👨🏻‍💻
 
