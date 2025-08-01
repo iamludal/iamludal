@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     <a href="https://iamludal.fr">
-        <img src="https://svgshare.com/i/fDu.svg" />
+        <img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </p>
 
