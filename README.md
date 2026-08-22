@@ -49,11 +49,12 @@
         <tr>
             <td>
                 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
                 <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=F00" />
                 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+                <img src="https://img.shields.io/badge/Go-01ACD7?style=for-the-badge&logo=go&logoColor=F7F7F7" />
                 <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white" />
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7F7F7" />
+                <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=F7F7F7" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Ansible-F7F7F7?style=for-the-badge&logo=ansible&logoColor=black" />
@@ -64,11 +65,13 @@
                 <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB" />
                 <img src="https://img.shields.io/badge/GitHub%20Actions-F7F7F7?style=for-the-badge&logo=github&logoColor=black" />
                 <img src="https://img.shields.io/badge/GitLab%20CI-F7F7F7?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+                <img src="https://img.shields.io/badge/GCP-F7F7F7?style=for-the-badge&logo=googlecloud&logoColor=01ACD7" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
                 <img src="https://img.shields.io/badge/MongoDB-679444?style=for-the-badge&logo=mongodb&logoColor=white" />
                 <img src="https://img.shields.io/badge/Redis-C13B2C?style=for-the-badge&logo=redis&logoColor=white" />
+                <img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white" />
             </td>
         </tr>
     </tbody>
